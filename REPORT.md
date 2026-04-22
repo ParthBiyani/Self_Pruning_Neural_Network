@@ -35,11 +35,9 @@ accurately reflects what the network has actually pruned.
 
 | λ | Test Accuracy | Sparsity (gate < 0.10) |
 |---|--------------|------------------------|
-| 2 | 56.19% | — |
-| 8 | 56.63% | — |
-| 30 | 57.06% | — |
-
-*(Sparsity values filled in after re-running with updated threshold.)*
+| 2  | 56.70% | 1.81%  |
+| 8  | 55.94% | 28.28% |
+| 30 | 56.41% | 68.71% |
 
 ---
 
