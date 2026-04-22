@@ -8,3 +8,7 @@ __pycache__/
 dist/
 build/
 .env
+
+
+# Claude Code files
+.claude/
